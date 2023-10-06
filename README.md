@@ -9,10 +9,10 @@ See nameHobby.py
 
 See acreCal.py
 
-4)	Write a function that uses a for loop to create a list of 5 grocery items.  Ask the user to type in a grocery item and indicate whether that item is in the list.
+3)	Write a function that uses a for loop to create a list of 5 grocery items.  Ask the user to type in a grocery item and indicate whether that item is in the list.
 
 See grocery.py
 
-5)	Write a class called student with Name, GPA, major. Write methods to access these values. Create a student object and test your functions.
+4)	Write a class called student with Name, GPA, major. Write methods to access these values. Create a student object and test your functions.
 
 See student.py
